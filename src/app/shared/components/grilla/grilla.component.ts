@@ -27,7 +27,7 @@ export class GrillaComponent implements OnInit {
   agregarAlumno ($event: any)
   { 
     this.datos.push($event); 
-    console.log($event);
+    //console.log($event);
    
 
   }
